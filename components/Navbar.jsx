@@ -11,10 +11,6 @@ const Navbar = () => {
         <a>Blog</a>
       </Link>
       <span> | </span>
-      <Link href="/blog/posts/first-post">
-        <a>Posts</a>
-      </Link>
-      <span> | </span>
       <Link href="/about">
         <a>About</a>
       </Link>

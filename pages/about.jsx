@@ -3,7 +3,7 @@ import utilStyles from "../styles/utils.module.css";
 
 const about = () => {
   return (
-    <Layout title="About | Blog" description="About" >
+    <Layout title="About | Blog" description="About" home >
       <h1>About</h1>
 
       <section className={utilStyles.headingMd}>
